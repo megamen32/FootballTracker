@@ -1,0 +1,12 @@
+
+{
+    "gameId": "game12345",
+    "width": 1280,
+    "height": 420,
+    "minSize": 10,
+    "maxSize": 40,
+    "mask": "mask.png",
+    "pusto": "pusto.jpeg",
+    "baseName": "model",
+    "dataServer":"http://localhost:5001/images"
+}
